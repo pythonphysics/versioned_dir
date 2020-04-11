@@ -1,6 +1,6 @@
 # Hello Brilliant, Useful GitHub
 
-## Maybe this might be better
+## This might be my second header
 
 This is a README.md file that will be used to describe this repository on GitHub
 
