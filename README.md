@@ -18,3 +18,7 @@ This is a much improved introduction that includes a new list of items
 * Item 3
 
 This is an extra line of text added to the copy of README.md in the cloned repository
+
+## Pull Requests
+
+I realised that I had to redo this pull request guide since to me it was the most confusing aspect of the entire thing
